@@ -1,0 +1,15 @@
+C:\Users\yanne\source\repos\MembrosClassesAbstratas\bin\Debug\net6.0\MembrosClassesAbstratas.exe
+C:\Users\yanne\source\repos\MembrosClassesAbstratas\bin\Debug\net6.0\MembrosClassesAbstratas.deps.json
+C:\Users\yanne\source\repos\MembrosClassesAbstratas\bin\Debug\net6.0\MembrosClassesAbstratas.runtimeconfig.json
+C:\Users\yanne\source\repos\MembrosClassesAbstratas\bin\Debug\net6.0\MembrosClassesAbstratas.dll
+C:\Users\yanne\source\repos\MembrosClassesAbstratas\bin\Debug\net6.0\MembrosClassesAbstratas.pdb
+C:\Users\yanne\source\repos\MembrosClassesAbstratas\obj\Debug\net6.0\MembrosClassesAbstratas.csproj.AssemblyReference.cache
+C:\Users\yanne\source\repos\MembrosClassesAbstratas\obj\Debug\net6.0\MembrosClassesAbstratas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanne\source\repos\MembrosClassesAbstratas\obj\Debug\net6.0\MembrosClassesAbstratas.AssemblyInfoInputs.cache
+C:\Users\yanne\source\repos\MembrosClassesAbstratas\obj\Debug\net6.0\MembrosClassesAbstratas.AssemblyInfo.cs
+C:\Users\yanne\source\repos\MembrosClassesAbstratas\obj\Debug\net6.0\MembrosClassesAbstratas.csproj.CoreCompileInputs.cache
+C:\Users\yanne\source\repos\MembrosClassesAbstratas\obj\Debug\net6.0\MembrosClassesAbstratas.dll
+C:\Users\yanne\source\repos\MembrosClassesAbstratas\obj\Debug\net6.0\refint\MembrosClassesAbstratas.dll
+C:\Users\yanne\source\repos\MembrosClassesAbstratas\obj\Debug\net6.0\MembrosClassesAbstratas.pdb
+C:\Users\yanne\source\repos\MembrosClassesAbstratas\obj\Debug\net6.0\MembrosClassesAbstratas.genruntimeconfig.cache
+C:\Users\yanne\source\repos\MembrosClassesAbstratas\obj\Debug\net6.0\ref\MembrosClassesAbstratas.dll

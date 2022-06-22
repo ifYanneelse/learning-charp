@@ -1,0 +1,15 @@
+C:\Users\yanne\source\repos\EstudandoInterfaces\obj\Debug\net6.0\EstudandoInterfaces.csproj.AssemblyReference.cache
+C:\Users\yanne\source\repos\EstudandoInterfaces\obj\Debug\net6.0\EstudandoInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanne\source\repos\EstudandoInterfaces\obj\Debug\net6.0\EstudandoInterfaces.AssemblyInfoInputs.cache
+C:\Users\yanne\source\repos\EstudandoInterfaces\obj\Debug\net6.0\EstudandoInterfaces.AssemblyInfo.cs
+C:\Users\yanne\source\repos\EstudandoInterfaces\obj\Debug\net6.0\EstudandoInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\yanne\source\repos\EstudandoInterfaces\bin\Debug\net6.0\EstudandoInterfaces.exe
+C:\Users\yanne\source\repos\EstudandoInterfaces\bin\Debug\net6.0\EstudandoInterfaces.deps.json
+C:\Users\yanne\source\repos\EstudandoInterfaces\bin\Debug\net6.0\EstudandoInterfaces.runtimeconfig.json
+C:\Users\yanne\source\repos\EstudandoInterfaces\bin\Debug\net6.0\EstudandoInterfaces.dll
+C:\Users\yanne\source\repos\EstudandoInterfaces\bin\Debug\net6.0\EstudandoInterfaces.pdb
+C:\Users\yanne\source\repos\EstudandoInterfaces\obj\Debug\net6.0\EstudandoInterfaces.dll
+C:\Users\yanne\source\repos\EstudandoInterfaces\obj\Debug\net6.0\refint\EstudandoInterfaces.dll
+C:\Users\yanne\source\repos\EstudandoInterfaces\obj\Debug\net6.0\EstudandoInterfaces.pdb
+C:\Users\yanne\source\repos\EstudandoInterfaces\obj\Debug\net6.0\EstudandoInterfaces.genruntimeconfig.cache
+C:\Users\yanne\source\repos\EstudandoInterfaces\obj\Debug\net6.0\ref\EstudandoInterfaces.dll

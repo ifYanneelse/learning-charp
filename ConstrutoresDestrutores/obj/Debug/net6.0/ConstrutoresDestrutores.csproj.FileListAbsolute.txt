@@ -1,0 +1,15 @@
+C:\Users\yanne\source\repos\ConstrutoresDestrutores\bin\Debug\net6.0\ConstrutoresDestrutores.exe
+C:\Users\yanne\source\repos\ConstrutoresDestrutores\bin\Debug\net6.0\ConstrutoresDestrutores.deps.json
+C:\Users\yanne\source\repos\ConstrutoresDestrutores\bin\Debug\net6.0\ConstrutoresDestrutores.runtimeconfig.json
+C:\Users\yanne\source\repos\ConstrutoresDestrutores\bin\Debug\net6.0\ConstrutoresDestrutores.dll
+C:\Users\yanne\source\repos\ConstrutoresDestrutores\bin\Debug\net6.0\ConstrutoresDestrutores.pdb
+C:\Users\yanne\source\repos\ConstrutoresDestrutores\obj\Debug\net6.0\ConstrutoresDestrutores.csproj.AssemblyReference.cache
+C:\Users\yanne\source\repos\ConstrutoresDestrutores\obj\Debug\net6.0\ConstrutoresDestrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanne\source\repos\ConstrutoresDestrutores\obj\Debug\net6.0\ConstrutoresDestrutores.AssemblyInfoInputs.cache
+C:\Users\yanne\source\repos\ConstrutoresDestrutores\obj\Debug\net6.0\ConstrutoresDestrutores.AssemblyInfo.cs
+C:\Users\yanne\source\repos\ConstrutoresDestrutores\obj\Debug\net6.0\ConstrutoresDestrutores.csproj.CoreCompileInputs.cache
+C:\Users\yanne\source\repos\ConstrutoresDestrutores\obj\Debug\net6.0\ConstrutoresDestrutores.dll
+C:\Users\yanne\source\repos\ConstrutoresDestrutores\obj\Debug\net6.0\refint\ConstrutoresDestrutores.dll
+C:\Users\yanne\source\repos\ConstrutoresDestrutores\obj\Debug\net6.0\ConstrutoresDestrutores.pdb
+C:\Users\yanne\source\repos\ConstrutoresDestrutores\obj\Debug\net6.0\ConstrutoresDestrutores.genruntimeconfig.cache
+C:\Users\yanne\source\repos\ConstrutoresDestrutores\obj\Debug\net6.0\ref\ConstrutoresDestrutores.dll

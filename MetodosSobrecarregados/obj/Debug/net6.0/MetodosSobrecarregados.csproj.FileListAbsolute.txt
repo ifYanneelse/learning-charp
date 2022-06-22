@@ -1,0 +1,15 @@
+C:\Users\yanne\source\repos\MetodosSobrecarregados\obj\Debug\net6.0\MetodosSobrecarregados.csproj.AssemblyReference.cache
+C:\Users\yanne\source\repos\MetodosSobrecarregados\obj\Debug\net6.0\MetodosSobrecarregados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanne\source\repos\MetodosSobrecarregados\obj\Debug\net6.0\MetodosSobrecarregados.AssemblyInfoInputs.cache
+C:\Users\yanne\source\repos\MetodosSobrecarregados\obj\Debug\net6.0\MetodosSobrecarregados.AssemblyInfo.cs
+C:\Users\yanne\source\repos\MetodosSobrecarregados\obj\Debug\net6.0\MetodosSobrecarregados.csproj.CoreCompileInputs.cache
+C:\Users\yanne\source\repos\MetodosSobrecarregados\bin\Debug\net6.0\MetodosSobrecarregados.exe
+C:\Users\yanne\source\repos\MetodosSobrecarregados\bin\Debug\net6.0\MetodosSobrecarregados.deps.json
+C:\Users\yanne\source\repos\MetodosSobrecarregados\bin\Debug\net6.0\MetodosSobrecarregados.runtimeconfig.json
+C:\Users\yanne\source\repos\MetodosSobrecarregados\bin\Debug\net6.0\MetodosSobrecarregados.dll
+C:\Users\yanne\source\repos\MetodosSobrecarregados\bin\Debug\net6.0\MetodosSobrecarregados.pdb
+C:\Users\yanne\source\repos\MetodosSobrecarregados\obj\Debug\net6.0\MetodosSobrecarregados.dll
+C:\Users\yanne\source\repos\MetodosSobrecarregados\obj\Debug\net6.0\refint\MetodosSobrecarregados.dll
+C:\Users\yanne\source\repos\MetodosSobrecarregados\obj\Debug\net6.0\MetodosSobrecarregados.pdb
+C:\Users\yanne\source\repos\MetodosSobrecarregados\obj\Debug\net6.0\MetodosSobrecarregados.genruntimeconfig.cache
+C:\Users\yanne\source\repos\MetodosSobrecarregados\obj\Debug\net6.0\ref\MetodosSobrecarregados.dll

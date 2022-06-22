@@ -1,0 +1,15 @@
+C:\Users\yanne\source\repos\HerancaDeClasses\bin\Debug\net6.0\HerancaDeClasses.exe
+C:\Users\yanne\source\repos\HerancaDeClasses\bin\Debug\net6.0\HerancaDeClasses.deps.json
+C:\Users\yanne\source\repos\HerancaDeClasses\bin\Debug\net6.0\HerancaDeClasses.runtimeconfig.json
+C:\Users\yanne\source\repos\HerancaDeClasses\bin\Debug\net6.0\HerancaDeClasses.dll
+C:\Users\yanne\source\repos\HerancaDeClasses\bin\Debug\net6.0\HerancaDeClasses.pdb
+C:\Users\yanne\source\repos\HerancaDeClasses\obj\Debug\net6.0\HerancaDeClasses.csproj.AssemblyReference.cache
+C:\Users\yanne\source\repos\HerancaDeClasses\obj\Debug\net6.0\HerancaDeClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanne\source\repos\HerancaDeClasses\obj\Debug\net6.0\HerancaDeClasses.AssemblyInfoInputs.cache
+C:\Users\yanne\source\repos\HerancaDeClasses\obj\Debug\net6.0\HerancaDeClasses.AssemblyInfo.cs
+C:\Users\yanne\source\repos\HerancaDeClasses\obj\Debug\net6.0\HerancaDeClasses.csproj.CoreCompileInputs.cache
+C:\Users\yanne\source\repos\HerancaDeClasses\obj\Debug\net6.0\HerancaDeClasses.dll
+C:\Users\yanne\source\repos\HerancaDeClasses\obj\Debug\net6.0\refint\HerancaDeClasses.dll
+C:\Users\yanne\source\repos\HerancaDeClasses\obj\Debug\net6.0\HerancaDeClasses.pdb
+C:\Users\yanne\source\repos\HerancaDeClasses\obj\Debug\net6.0\HerancaDeClasses.genruntimeconfig.cache
+C:\Users\yanne\source\repos\HerancaDeClasses\obj\Debug\net6.0\ref\HerancaDeClasses.dll
