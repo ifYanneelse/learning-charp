@@ -1,0 +1,15 @@
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\csharp\ClassesObjetosEscopos\bin\Debug\net6.0\ClassesObjetosEscopos.exe
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\csharp\ClassesObjetosEscopos\bin\Debug\net6.0\ClassesObjetosEscopos.deps.json
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\csharp\ClassesObjetosEscopos\bin\Debug\net6.0\ClassesObjetosEscopos.runtimeconfig.json
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\csharp\ClassesObjetosEscopos\bin\Debug\net6.0\ClassesObjetosEscopos.dll
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\csharp\ClassesObjetosEscopos\bin\Debug\net6.0\ClassesObjetosEscopos.pdb
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\csharp\ClassesObjetosEscopos\obj\Debug\net6.0\ClassesObjetosEscopos.csproj.AssemblyReference.cache
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\csharp\ClassesObjetosEscopos\obj\Debug\net6.0\ClassesObjetosEscopos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\csharp\ClassesObjetosEscopos\obj\Debug\net6.0\ClassesObjetosEscopos.AssemblyInfoInputs.cache
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\csharp\ClassesObjetosEscopos\obj\Debug\net6.0\ClassesObjetosEscopos.AssemblyInfo.cs
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\csharp\ClassesObjetosEscopos\obj\Debug\net6.0\ClassesObjetosEscopos.csproj.CoreCompileInputs.cache
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\csharp\ClassesObjetosEscopos\obj\Debug\net6.0\ClassesObjetosEscopos.dll
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\csharp\ClassesObjetosEscopos\obj\Debug\net6.0\refint\ClassesObjetosEscopos.dll
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\csharp\ClassesObjetosEscopos\obj\Debug\net6.0\ClassesObjetosEscopos.pdb
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\csharp\ClassesObjetosEscopos\obj\Debug\net6.0\ClassesObjetosEscopos.genruntimeconfig.cache
+C:\Users\yanne\DownloadsSSD\devprogramacao\Cigam\csharp\ClassesObjetosEscopos\obj\Debug\net6.0\ref\ClassesObjetosEscopos.dll
