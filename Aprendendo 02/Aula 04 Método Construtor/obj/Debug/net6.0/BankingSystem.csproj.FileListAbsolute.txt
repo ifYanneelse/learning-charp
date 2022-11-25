@@ -1,0 +1,15 @@
+D:\yanne\Documents\Visual Studio 2022\Projects\Banking System\Aula 02 Classes, Objetos e Atributos\BankingSystem\bin\Debug\net6.0\BankingSystem.exe
+D:\yanne\Documents\Visual Studio 2022\Projects\Banking System\Aula 02 Classes, Objetos e Atributos\BankingSystem\bin\Debug\net6.0\BankingSystem.deps.json
+D:\yanne\Documents\Visual Studio 2022\Projects\Banking System\Aula 02 Classes, Objetos e Atributos\BankingSystem\bin\Debug\net6.0\BankingSystem.runtimeconfig.json
+D:\yanne\Documents\Visual Studio 2022\Projects\Banking System\Aula 02 Classes, Objetos e Atributos\BankingSystem\bin\Debug\net6.0\BankingSystem.dll
+D:\yanne\Documents\Visual Studio 2022\Projects\Banking System\Aula 02 Classes, Objetos e Atributos\BankingSystem\bin\Debug\net6.0\BankingSystem.pdb
+D:\yanne\Documents\Visual Studio 2022\Projects\Banking System\Aula 02 Classes, Objetos e Atributos\BankingSystem\obj\Debug\net6.0\BankingSystem.csproj.AssemblyReference.cache
+D:\yanne\Documents\Visual Studio 2022\Projects\Banking System\Aula 02 Classes, Objetos e Atributos\BankingSystem\obj\Debug\net6.0\BankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\yanne\Documents\Visual Studio 2022\Projects\Banking System\Aula 02 Classes, Objetos e Atributos\BankingSystem\obj\Debug\net6.0\BankingSystem.AssemblyInfoInputs.cache
+D:\yanne\Documents\Visual Studio 2022\Projects\Banking System\Aula 02 Classes, Objetos e Atributos\BankingSystem\obj\Debug\net6.0\BankingSystem.AssemblyInfo.cs
+D:\yanne\Documents\Visual Studio 2022\Projects\Banking System\Aula 02 Classes, Objetos e Atributos\BankingSystem\obj\Debug\net6.0\BankingSystem.csproj.CoreCompileInputs.cache
+D:\yanne\Documents\Visual Studio 2022\Projects\Banking System\Aula 02 Classes, Objetos e Atributos\BankingSystem\obj\Debug\net6.0\BankingSystem.dll
+D:\yanne\Documents\Visual Studio 2022\Projects\Banking System\Aula 02 Classes, Objetos e Atributos\BankingSystem\obj\Debug\net6.0\refint\BankingSystem.dll
+D:\yanne\Documents\Visual Studio 2022\Projects\Banking System\Aula 02 Classes, Objetos e Atributos\BankingSystem\obj\Debug\net6.0\BankingSystem.pdb
+D:\yanne\Documents\Visual Studio 2022\Projects\Banking System\Aula 02 Classes, Objetos e Atributos\BankingSystem\obj\Debug\net6.0\BankingSystem.genruntimeconfig.cache
+D:\yanne\Documents\Visual Studio 2022\Projects\Banking System\Aula 02 Classes, Objetos e Atributos\BankingSystem\obj\Debug\net6.0\ref\BankingSystem.dll
